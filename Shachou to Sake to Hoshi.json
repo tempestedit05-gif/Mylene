@@ -4,5 +4,16 @@
   "artist": "Zurikishi",
   "author": "Zurikishi",
   "cover": "https://mangadex.org/covers/7991e715-40ae-4c3e-b0e0-aa8bee90ece7/bd44ef3c-f917-46e7-aa02-39f2699fe569.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1758031892",
+      "groups": {
+        "Mylene Scans": [
+          "https://imgur.com/a/KWtZj8z"
+        ]
+      }
+    }
+  }
 }
