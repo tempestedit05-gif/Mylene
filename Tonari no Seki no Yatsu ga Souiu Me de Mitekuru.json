@@ -4,27 +4,5 @@
   "artist": "mmk",
   "author": "mmk",
   "cover": "https://mangadex.org/covers/1d25919b-e677-45c1-a64d-e40c2ea14fd5/325f486f-64b4-460e-9868-8094eeb84b45.jpg",
-  "chapters": {
-    "71": {
-      "title": "71",
-      "volume": "",
-      "last_updated": "1758472949",
-      "groups": {
-        "Mylene Scans": [
-          "https://files.catbox.moe/dvy5qv.jpg",
-          "https://files.catbox.moe/vt2b5a.jpg",
-          "https://files.catbox.moe/iygd1p.jpg",
-          "https://files.catbox.moe/piepcn.jpg",
-          "https://files.catbox.moe/3capxk.jpg",
-          "https://files.catbox.moe/3zechc.jpg",
-          "https://files.catbox.moe/wy5b6u.jpg",
-          "https://files.catbox.moe/u8xbpf.jpg",
-          "https://files.catbox.moe/duta1p.jpg",
-          "https://files.catbox.moe/tab3dm.jpg",
-          "https://files.catbox.moe/9moism.jpg",
-          "https://files.catbox.moe/st9flv.jpg"
-        ]
-      }
-    }
-  }
+  "chapters": {}
 }
